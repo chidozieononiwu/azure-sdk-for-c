@@ -270,13 +270,13 @@ _The following was run on an Ubuntu Desktop 18.04 environment, but it also works
     On the Azure Portal,
     - Go to your Azure IoT hub page.
     - Click on "IoT devices" under "Explorers".
-    - From the list of devices, click on your device (created on step 8).
-      ![Device page](https://github.com/Azure/azure-sdk-for-c/tree/master/sdk/docs/iot/resources/embc_samples_01_device.png?raw=true)
+    - From the list of devices, click on your device (created on step 8).  
+      ![Device page](../../../../docs/iot/resources/embc_samples_01_device.png)
     - Click on "Message to Device".
-    - On "Message Body", type "Hello world!" (too cheesy? how about "Lorem Ipsum"?)
-      ![Send message](https://github.com/Azure/azure-sdk-for-c/tree/master/sdk/docs/iot/resources/embc_samples_02_c2d.png?raw=true)
-    - Click on "Send Message".
-      ![Success](https://github.com/Azure/azure-sdk-for-c/tree/master/sdk/docs/iot/resources/embc_samples_03_c2d_success.png?raw=true)
+    - On "Message Body", type "Hello world!" (too cheesy? how about "Lorem Ipsum"?)  
+      ![Send message](../../../../docs/iot/resources/embc_samples_02_c2d.png)
+    - Click on "Send Message".  
+      ![Success](../../../../docs/iot/resources/embc_samples_03_c2d_success.png)
 
     Back to the shell, verify that the message has been received by the sample:
 
